@@ -4,4 +4,4 @@ This is my M.Tech project which is part of the subject introduction to deep lear
 <h2 align='center'>| TENTATIVE METHODOLOGY DIAGRAM | *SUBJECT TO CHANGE |</h2>
 <img src='Methodology Block Diagram.png'>
 
-<img src='Skull Stripping.png' width=150>
+<img src='Skull Stripping.png' width=350>
